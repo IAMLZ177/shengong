@@ -1,0 +1,19 @@
+{
+  "name": "shengong",
+  "version": "1.0.0",
+  "description": "工作助手",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAMLZ177/shengong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAMLZ177/shengong/issues"
+  },
+  "homepage": "https://github.com/IAMLZ177/shengong#readme"
+}
