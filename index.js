@@ -1,8 +1,8 @@
 const http = require('http');
 
 const server = http.createServer((req,res)=>{
-    console.dir(req);
-    res.end('true');
+    const echostr = req.url.split('&')[1].split('=')[1];
+    res.end(echostr);
 });
 
 server.listen(80);
